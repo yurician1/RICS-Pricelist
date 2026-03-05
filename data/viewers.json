@@ -1,0 +1,23 @@
+{
+  "total": 2,
+  "viewers": [
+    {
+      "username": "yurician1",
+      "karma": 100,
+      "coins": 7415,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "555995695"
+      }
+    },
+    {
+      "username": "streamelements",
+      "karma": 100,
+      "coins": 7346,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "100135110"
+      }
+    }
+  ]
+}
